@@ -1,4 +1,7 @@
 ### Hi there 👋
+I like to code, game & draw.
+
+Check [here](https://ofsen.netlify.app/) for the latest stuff!
 
 <!--
 **Ofsen/ofsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
